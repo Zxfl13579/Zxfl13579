@@ -2,7 +2,7 @@
 - 👀 I’m interested in developping iOS apps and eventually move on to Vision OS and other VR apps to be integrated in dailu life (as long as the hardware becomes a bit more inconspicuous 😅)
 - 🌱 I’m currently learning Swift UI - might move on to Python after
 - 💞️ I’m looking to collaborate on life automation
-- 📫 How to reach me : DM on GitHub (is that even possible ?)
+- 📫 How to reach me : DM on GitHub (is that even possible ?) - tag me on a discussion to get started
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: full of energy (like really)
 
